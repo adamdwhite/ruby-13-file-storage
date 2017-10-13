@@ -1,0 +1,16 @@
+A=NSX
+B=2002
+C=New Yorker Convertible
+D=Z80
+F=F12
+H=H1
+I=G35
+K=Sedona
+L=Murcielago
+M=CL65 AMG
+N=GT-R
+O=Manta
+P=911 Turbo
+R=Silver Cloud
+T=S P100D
+Y=GV 
